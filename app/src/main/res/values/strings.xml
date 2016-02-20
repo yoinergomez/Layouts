@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActividadLayout</string>
+    <string name="hintName">Ingrese tu nombre</string>
+    <string name="btnText">Aceptar</string>
+</resources>
